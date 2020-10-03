@@ -4,4 +4,4 @@ This is a client application for team remote. This application will receive data
 
 ![Image](https://github.com/msrkms/TeamRemote/blob/master/Image/nasa.PNG)
 ![Image](https://github.com/msrkms/TeamRemote/blob/master/Image/splash.PNG)
-![Image](https://github.com/msrkms/TeamRemote/blob/master/Image/all events.PNG)
+![Image](https://github.com/msrkms/TeamRemote/blob/master/Image/allevents.PNG)
